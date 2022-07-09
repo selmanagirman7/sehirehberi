@@ -1,0 +1,2 @@
+dosya içinde bulunan şehirrehberi apiyi ayaklandırıp bununla beraber angular projesini ng serve --open diyerek çalştırabilirsiniz amacım  bir apiden gelen veri ile çalışmak 
+ 
